@@ -1,0 +1,6 @@
+# Dependencies
+venv
+node_modules
+
+# Cache Related
+__pycache__
